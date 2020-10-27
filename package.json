@@ -1,11 +1,11 @@
 {
-  "name": "17-modern-js-modules-tooling",
+  "name": "guess-my-number",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "start": "index.html",
+    "build": "index.html"
   },
   "author": "Jonas",
   "license": "ISC",
