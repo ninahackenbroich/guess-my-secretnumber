@@ -4,8 +4,8 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "start": "index.html",
+    "build": "build index.html"
   },
   "author": "Jonas",
   "license": "ISC",
