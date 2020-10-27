@@ -12,6 +12,8 @@
 
 // Define secret Number:
 
+// Comments
+
 let numberSecret = Math.trunc(Math.random() * 20) + 1;
 
 let score = 20;
