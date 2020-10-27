@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
